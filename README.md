@@ -1,3 +1,5 @@
+**English** · [简体中文](./README.zh-CN.md)
+
 <img src="./assets/banner.svg" alt="Hi, I'm Xiamu. Building things, one idea at a time." width="100%" />
 
 ### 夏目 / Xiamu
